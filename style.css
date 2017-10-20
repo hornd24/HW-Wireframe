@@ -1,0 +1,86 @@
+.back{ background-color: #777;
+    width: 960px;
+
+}
+#h1{font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    * font-size: 18px;
+    color:#ebebeb;
+    width: section: 495px;
+   text-align:center;
+
+}
+.ul-h1{text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+    font-size: 18px;
+
+}
+}
+.img-h1{ text-align: center;
+    display: block;
+    margin: auto;
+}
+
+}
+.h2{    font-size: 13px;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+     
+    color:#ebebeb;
+
+  
+
+
+}
+h3{  font-size: 13px;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+     
+    color:#ebebeb;
+
+
+
+}
+
+h3{ background-color: rebeccapurple;
+
+h3. clear{ 
+    clear: both;
+
+}
+
+}
+#img1{width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+            
+
+
+
+
+
+}
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.nav{font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+   color:#ebebeb;
+   width: section: 495px;
+   font-weight: bolder;
+   float:center;
+
+}
+#foot{font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+.nav :hover{ background-color: black;
+    
+
+}
